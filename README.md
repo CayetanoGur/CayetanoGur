@@ -5,7 +5,7 @@
 
 - 🔭 I'd work in **Data, Blockchain and Finance projects**
 
-- 🌱 I’m currently learning **Djando, MySql, Cryptographi**
+- 🌱 I’m currently learning **Djando, MySql, Cryptography**
 
 - 📫 How to reach me **cayetanogur@gmail.com**
 
