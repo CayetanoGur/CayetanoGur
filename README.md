@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cayetano Gutierrez Urquijo</h1>
-<h3 align="center">An enthusiastic person who is currently studying software engineering and learning from personal projects.</h3>
+<h3 align="center">I'm an enthusiastic person who is currently studying software engineering and learning from personal projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cayetanogur&label=Profile%20views&color=0e75b6&style=flat" alt="cayetanogur" /> </p>
 
